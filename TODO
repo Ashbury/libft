@@ -1,0 +1,10 @@
+## FT_PRINTF ##
+
+Scanf implementation (and variants, especially sscanf).
+
+## OTHERS ##
+
+Implement binary trees (red and black).
+Implement sorting functions (used like qsort).
+
+Create variants of usual functions.
