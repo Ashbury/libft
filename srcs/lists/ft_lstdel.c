@@ -13,6 +13,10 @@
 #include "libft.h"
 #include <stdlib.h>
 
+/*
+** TODO: No recursivity, please.
+*/
+
 void	ft_lstdel(t_list **alst, void (*del)(void *, size_t))
 {
 	if (*alst != NULL)

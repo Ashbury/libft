@@ -11,11 +11,6 @@
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdlib.h>
-
-/*
-** TODO: Refactor that.
-*/
 
 void	ft_lstdelone(t_list **alst, void (*del)(void*, size_t))
 {
