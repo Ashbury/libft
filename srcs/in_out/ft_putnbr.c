@@ -46,7 +46,7 @@ void			ft_putnbr(int32_t n)
 	}
 	nbr = (int64_t)n;
 	i = get_len(&nbr, converted);
-	converted[i] = 0;
+	converted[i] = '\0';
 	i--;
 	while (nbr)
 	{
